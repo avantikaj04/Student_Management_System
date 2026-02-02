@@ -1,4 +1,4 @@
-package com.app;
+package com.cjc.sms.app;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
